@@ -1,0 +1,38 @@
+
+
+h1{
+    text-align:center;
+    color:rosybrown;
+    font-family: monospace;
+}
+h2{
+    text-align: center;
+    color:cadetblue;
+    font-family: monospace;
+    
+}
+table{
+    text-align: center;
+    border: 1px solid grey;
+    color: black;
+    font-size: 20px;
+    border-collapse: collapse;
+    margin: 0 auto; 
+    size-adjust: 0.5%;
+    width: 50%;
+    height: fit-content;
+    padding:10px 20px;
+}
+th,td {
+    border: 2px solid grey;
+    font-family: monospace;
+}
+
+.code {
+    background-color: beige;
+}
+h3 {
+    background-color: cornflowerblue;
+    font-family: monospace;
+}
+html, body {width: 100%; text-align: center; background-color: FloralWhite;}
